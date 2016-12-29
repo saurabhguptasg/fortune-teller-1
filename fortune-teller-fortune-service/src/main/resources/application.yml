@@ -1,8 +1,8 @@
-spring:
-  jpa:
-    database: MYSQL
-    hibernate:
-      ddl-auto: create-drop
+#spring:
+#  jpa:
+#    database: HSQLDB
+#    hibernate:
+#      ddl-auto: create-drop
 
 ribbon:
   IsSecure: false
